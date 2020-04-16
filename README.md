@@ -1,4 +1,4 @@
-# Face-recognition
+# Real time Face recognition
 
 modules you need to run the scripts 
   - numpy ( to array calculations and manipulations)  
